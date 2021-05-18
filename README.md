@@ -1,6 +1,8 @@
 **NUMPY NEWSLETTER**
 
-**Objectives** - to add
+**Objectives**
+Inform, educate, and inspire the NumPy community.
+
 
 **Subscriber acquisition channels:**
 - a sign up form in the footer of numpy.org,
