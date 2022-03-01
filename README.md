@@ -31,5 +31,5 @@ Segment headings are needed.
  
  
 **Interview Questionnaire**
-<br>A questionnaire will be used to profile featured NumPy contributors.
+<br>A questionnaire will be used to profile featured NumPy contributors: https://github.com/numpy/numpy-newsletter/blob/main/q10.md
 
