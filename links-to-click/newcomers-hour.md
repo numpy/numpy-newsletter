@@ -12,9 +12,9 @@ Watch the recording of the discussion on [YouTube](https://www.youtube.com/watch
 * [17:35](https://youtu.be/mTWpBf1zewc?t=1055) Debugging techniques
 * [21:36](https://youtu.be/mTWpBf1zewc?t=1296) Self documentation techniques
 * [26:48](https://youtu.be/mTWpBf1zewc?t=1608) The review process, making mistakes, and working in public
-* [32:51](https://youtu.be/mTWpBf1zewc?t=1972) Parts of the NumPy Codebase that need the most work
+* [32:51](https://youtu.be/mTWpBf1zewc?t=1972) Parts of the NumPy codebase that need the most work
 * [37:36](https://youtu.be/mTWpBf1zewc?t=2257) How NumPy deprecations work
 * [40:35](https://youtu.be/mTWpBf1zewc?t=2435) The future of NumPy
 * [44:17](https://youtu.be/mTWpBf1zewc?t=2657) Adding new features
 * [48:42](https://youtu.be/mTWpBf1zewc?t=2922) Closing remarks
-* [51:57](https://youtu.be/mTWpBf1zewc) How newcomers can start contributing
+* [51:57](https://youtu.be/mTWpBf1zewc?t=3117) How newcomers can start contributing
