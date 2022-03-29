@@ -1,5 +1,14 @@
 **Analyzing the impact of the lockdown on air quality**
 
-The pandemic-induced lockdown provided a rare controlled environment to observe the effect of human activity on the air quality. [Mukulika's](https://github.com/Mukulikaa) tutorial- *Analyzing the impact of the lockdown on air quality in Delhi, India*, calculates the Air Quality Indices and uses hypothesis testing on the data samples to test the improvement of air quality after the lockdown.
+The pandemic-induced lockdown provided a rare, controlled environment to observe the effect of human activity on Delhi's air quality. [Mukulika's](https://github.com/Mukulikaa) tutorial, *Analyzing the impact of the lockdown on air quality in Delhi, India*, calculates Air Quality Indices and tests the air-quality improvement after the lockdown.
 
-[Check out the tutorial!](https://numpy.org/numpy-tutorials/content/tutorial-air-quality-analysis.html)
+This tutorial teaches the following concepts:
+
+* The concept of moving averages
+* How to calculate Air Quality Index (AQI)
+* How to perform a paired Student’s t-test and find the t and p values
+* How to interpret these values
+
+[Read the the tutorial on numpy.org](https://numpy.org/numpy-tutorials/content/tutorial-air-quality-analysis.html)
+
+[Watch a video about the tutorial on YouTube](https://www.youtube.com/watch?v=5bfFI2WuuMA)
