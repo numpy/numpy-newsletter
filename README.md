@@ -1,5 +1,7 @@
 **NUMPY NEWSLETTER**
 
+This project is managed via GitHub Projects: https://github.com/numpy/numpy-newsletter/projects
+
 **Objectives**
 Inform, educate, and inspire the NumPy community.
 
@@ -12,7 +14,6 @@ Inform, educate, and inspire the NumPy community.
 <br>Issues will be numbered (e.g. Issue No. 24):
 - appropriate for a project that has “numerical” in its name,
 - will allow the editorial team to have some flexibility with the frequency of releases.
-
 
 **Design**
 <br>A custom template is preferred. 
