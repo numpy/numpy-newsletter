@@ -24,4 +24,4 @@ add the timestamps for the [video](https://www.youtube.com/watch?v=DjiC4-8c5f0) 
 38:16 - C-deprecations Test case
 38:53 - Removing a C-deprecation
 41:37 - Running test
-43:14 - Outro
+43:14 - Outro 
