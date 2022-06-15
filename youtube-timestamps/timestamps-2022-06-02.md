@@ -16,7 +16,7 @@ add the timestamps for the [video](https://www.youtube.com/watch?v=DjiC4-8c5f0) 
 26:34 - Git commit
 27:53 Git push
 28:00 Creating a pull request 
-28:53 - Writing a release note
+28:53 Writing a release note
 32:27 - Pushing release note
 32:31 - Discussion
 33:24 - Questions
