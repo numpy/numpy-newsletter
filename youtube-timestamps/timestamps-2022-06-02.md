@@ -20,7 +20,7 @@ add the timestamps for the [video](https://www.youtube.com/watch?v=DjiC4-8c5f0) 
 32:27 - Pushing release note
 32:31 - Discussion
 33:24 - Questions
-36:36 - C-deprecations
+36:36 Intro to C-deprecations
 38:16 C-deprecations test case
 38:53 Removing a C-deprecation
 41:37 Running test
