@@ -9,6 +9,6 @@ This tutorial teaches the following concepts:
 * How to perform a paired Student’s t-test and find the t and p values
 * How to interpret these values
 
-[Read the the tutorial on numpy.org](https://numpy.org/numpy-tutorials/content/tutorial-air-quality-analysis.html)
+[Read a text version of the tutorial on numpy.org.](https://numpy.org/numpy-tutorials/content/tutorial-air-quality-analysis.html)
 
 [Watch a video about the tutorial on YouTube](https://www.youtube.com/watch?v=5bfFI2WuuMA)
