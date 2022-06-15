@@ -11,4 +11,4 @@ This tutorial teaches the following concepts:
 
 [Read a text version of the tutorial on numpy.org.](https://numpy.org/numpy-tutorials/content/tutorial-air-quality-analysis.html)
 
-[Watch a video about the tutorial on YouTube](https://www.youtube.com/watch?v=5bfFI2WuuMA)
+[Watch a video presentation of the tutorial on the official NumPy YouTube channel.](https://www.youtube.com/watch?v=5bfFI2WuuMA)
