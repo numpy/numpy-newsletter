@@ -14,7 +14,7 @@ add the timestamps for the [video](https://www.youtube.com/watch?v=DjiC4-8c5f0) 
 24:57 - Creating a branch (Git branch)
 25:00 - Git checkout
 26:34 - Git commit
-27:53 - Git Push
+27:53 Git push
 28:00 - Creating a Pull request 
 28:53 - Writing a release note
 32:27 - Pushing release note
