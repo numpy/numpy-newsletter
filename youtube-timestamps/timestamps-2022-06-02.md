@@ -18,7 +18,6 @@ add the timestamps for the [video](https://www.youtube.com/watch?v=DjiC4-8c5f0) 
 28:00 Creating a pull request 
 28:53 Writing a release note
 32:27 - Pushing release note
-32:31 - Discussion
 32:31 Q&A
 36:36 Intro to C-deprecations
 38:16 C-deprecations test case
