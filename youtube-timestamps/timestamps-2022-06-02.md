@@ -12,7 +12,7 @@
 
 21:12 Running a test to check fixes
 
-23:19 Debugging and fixing a failed test (Test_density_normeh_redundancy)
+23:19 Debugging and fixing a failed test (test_density_normed_redundancy)
 
 24:35 Running a test to check fixes
 
