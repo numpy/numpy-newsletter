@@ -26,7 +26,7 @@
 
 21:09 What do the t and p value mean?
 
-24:55 Tutorial outro
+24:55 Tutorial walk-through summary
 
 26:58 Questions and answers
 
