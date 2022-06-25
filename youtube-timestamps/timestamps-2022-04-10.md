@@ -16,7 +16,7 @@
 
 13:56 Why designers?
 
-16:43 Our story + impact
+16:43 Our story + Impact
 
 20:02 ALT-Text Workshop
 
@@ -24,4 +24,8 @@
 
 22:23 Actionable steps
 
-23-29 Specical thanks
+23:29 Specical thanks
+
+23:55 Numpy community discussion
+
+26:10 Question and answers
