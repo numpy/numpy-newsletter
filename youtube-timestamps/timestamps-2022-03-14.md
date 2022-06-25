@@ -19,3 +19,19 @@
 14:19 Paired student's test on the air quality index
 
 15:08 Defining the hypothesis
+
+16:30 Sampling
+
+19:02 Calculating the test statistics
+
+21:09 What do the t and p value mean?
+
+24:55 Tutorial outro
+
+26:58 Questions and answers
+
+34:30 Contributing to Numpy: Writing tutorials
+
+35:15 Questions and answers
+
+38:26 Outro
