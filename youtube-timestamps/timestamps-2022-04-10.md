@@ -24,7 +24,7 @@
 
 22:23 Actionable steps
 
-23:29 Specical thanks
+23:29 Special thanks
 
 23:55 Numpy community discussion
 
