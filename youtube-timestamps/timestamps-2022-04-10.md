@@ -13,3 +13,15 @@
 10:15 Why should OSS be more accessible?
 
 11:20 What are the barriers?
+
+13:56 Why designers?
+
+16:43 Our story + impact
+
+20:02 ALT-Text Workshop
+
+22:08 Key takeaways
+
+22:23 Actionable steps
+
+23-29 Specical thanks
