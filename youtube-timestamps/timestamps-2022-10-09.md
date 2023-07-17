@@ -2,7 +2,7 @@
 
 0:54 What is NumPy newcomers' hour?
 
-1:30 What are jamming today?
+1:30 What are we jamming today?
 
 1:43 Design Jam Session 1
 

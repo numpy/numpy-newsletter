@@ -4,7 +4,7 @@
 
 02:10 Self-introduction of each participant
 
-06:05 Beginning of slide presentation and general benefit of NumPy
+06:51 Beginning of slide presentation and general benefit of NumPy
 
 08:03 Self-introduction of the speaker
 
@@ -16,11 +16,11 @@
 
 27:55 Diagram on Learner's Journey
 
-29:45 Presentation of an open educational resource in Computational Mechanics
+29:45 Reviewing an open educational resource in Computational Mechanics
 
 35:26 Revisiting the Learner's Journey
 
-26:14 NumPy in Mechanical Engineering
+38:35 NumPy in Mechanical Engineering
 
 41:37 Benefits of NumPy: Products
 

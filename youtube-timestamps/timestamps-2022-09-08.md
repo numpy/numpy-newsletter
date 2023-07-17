@@ -6,11 +6,11 @@
 
 04:32 What is a UFunc?
 
-08:42 Lets make a UFunc: The "strided loop"
+08:42 Let's make a UFunc: The "strided loop"
 
-12:25 Lets make a UFunc: The "Resolver"
+12:25 Let's make a UFunc: The "Resolver"
 
-15:31 Let make a UFunc: Wrap it up!
+15:31 Let's make a UFunc: Wrap it up!
 
 18:42 Done with UFunc!
 

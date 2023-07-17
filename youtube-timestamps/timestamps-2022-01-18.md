@@ -19,7 +19,7 @@
 
 26:08 Using `gdb` for debugging
 
-30:06 Q/Q on how to navigate frames to extract variables
+30:06 Q/A on how to navigate frames to extract variables
 
 31:35 Resume using `gdb`
 
@@ -31,6 +31,6 @@
 
 42:48 Resume live debugging
 
-45:28 Brief introduction to `Py-bt`
+45:20 Brief introduction to `Py-bt`
 
 45:51 Feedback and comments from participants
